@@ -28,6 +28,7 @@ Jednak nie samą teorią człowiek żyje i potrzebuję nieco praktyki, która sp
 
 4. W sesji testowania eksploracyjnego skupiłam się na przetestowaniu możliwości edycji profilu zawodnika.
    
+   
    Błędem z założenia wydaje mi się możliwość dowolnej edycji profilu gracza. Uprawnienia do edycji powinien mieć jeden użytkownik zarządzający profilem.
   
     W profilu gracza pole "waga" pzyjmuje wartość ujemną - należy wprowadzić wartości brzegowe
