@@ -31,20 +31,20 @@ Jednak nie samą teorią człowiek żyje i potrzebuję nieco praktyki, która sp
    
    Błędem z założenia wydaje mi się możliwość dowolnej edycji profilu gracza. Uprawnienia do edycji powinien mieć jeden użytkownik zarządzający profilem.
   
-    W profilu gracza pole "waga" pzyjmuje wartość ujemną - należy wprowadzić wartości brzegowe
+      * W profilu gracza pole "waga" pzyjmuje wartość ujemną - należy wprowadzić wartości brzegowe
   
-    W profilu gracza pole "data urodzenia" przyjmuje datę przyszłą oraz datę sprzed wynalezinia piłki nożnej ;) - należy wprowadzić wartości brzegowe
+      * W profilu gracza pole "data urodzenia" przyjmuje datę przyszłą oraz datę sprzed wynalezinia piłki nożnej ;) - należy wprowadzić wartości brzegowe
   
-    W profilu gracza pole "wzrost" przyjmuje wartości nieprawdopodobne - należy wprowadzić wartości brzegowe
+      * W profilu gracza pole "wzrost" przyjmuje wartości nieprawdopodobne - należy wprowadzić wartości brzegowe
   
-    W profilu gracza pole "poziom rozgrywek" przyjmuje dowolny ciąg cyfr lub liter - proponuję rozwijaną listę z wyborem poziomu
+      * W profilu gracza pole "poziom rozgrywek" przyjmuje dowolny ciąg cyfr lub liter - proponuję rozwijaną listę z wyborem poziomu
   
-    W profilu gracza pole "pozycja główna" przyjmuje dowolny ciąg cyfr lub liter - proponuję jak wyżej
+      * W profilu gracza pole "pozycja główna" przyjmuje dowolny ciąg cyfr lub liter - proponuję jak wyżej
   
-    W profilu gracza pole "pozycja alternatywna" przyjmuje dowolny ciąg cyfr lub liter - proponuję jak wyżej
+      * W profilu gracza pole "pozycja alternatywna" przyjmuje dowolny ciąg cyfr lub liter - proponuję jak wyżej
   
-    Nie rozumiem co ma na celu pole "Łączy nas piłka" - sugeruję wyszarzoną podpowiedź w oknie np. krótki opis kariery
+      * Nie rozumiem co ma na celu pole "Łączy nas piłka" - sugeruję wyszarzoną podpowiedź w oknie np. krótki opis kariery
   
-    Nie rozumiem co ma na celu pole "90 minut" - proponuję jak wyżej
+      * Nie rozumiem co ma na celu pole "90 minut" - proponuję jak wyżej
   
 
