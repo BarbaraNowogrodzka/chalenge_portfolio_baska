@@ -14,10 +14,10 @@ Jednak nie samą teorią człowiek żyje i potrzebuję nieco praktyki, która sp
 
 ## **Subtask 4**
 
-1. aplikacja dla skautów piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycji zawodników.
+1. Aplikacja dla skautów piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycji zawodników.
   Dzięki aplikaji użytownik powinien móc określić cechy danego piłkarza i jego potencjlną przydatność dla zespołu.
 
-2. w aplikacji użytkownik może przeglądać bazę zawodników. Bazę można sortować po punktacji zawodnika, imieniu lub nazwisku w kolejności alfabetycznej, wieku, pozycji, klubie, recenzji.
+2. W aplikacji użytkownik może przeglądać bazę zawodników. Bazę można sortować po punktacji zawodnika, imieniu lub nazwisku w kolejności alfabetycznej, wieku, pozycji, klubie, recenzji.
   Po wybraniu zawodnika użytkownik widzi podstawowe dane, może wyświetlić mecze w których zawodnik wystąpił, stracone i strzelone gole w danym meczu oraz raport gracza.
   Użytkownik ma możliwość edycji wszystkich powyższych danych.
   Użytkownik ma możliwość dodania zawodnika.
