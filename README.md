@@ -12,4 +12,23 @@ Jednak nie samą teorią człowiek żyje i potrzebuję nieco praktyki, która sp
 
 **_Baśka_**
 
+## **Subtask 4**
+
+* aplikacja dla skautów piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycji zawodników.
+  Dzięki aplikaji użytownik powinien móc określić cechy danego piłkarza i jego potencjlną przydatność dla zespołu.
+
+* w aplikacji użytkownik może przeglądać bazę zawodników. Bazę można sortować po punktacji zawodnika, imieniu lub nazwisku w kolejności alfabetycznej, wieku, pozycji, klubie, recenzji.
+  Po wybraniu zawodnika użytkownik widzi podstawowe dane, może wyświetlić mecze w których zawodnik wystąpił, stracone i strzelone gole w danym meczu oraz raport gracza.
+  Użytkownik ma możliwość edycji wszystkich powyższych danych.
+  Użytkownik ma możliwość dodania zawodnika.
+  Funkconalności są dosyć mało intuicyjne. "Rozrzucone" w różnych miejscach, mało logiczne. Niektóre się powtarzają.
+  Nie do końca udało mi się dojść na czym polega funkcja "rozpocznij mecz" i kolejno dodawane akcje. Nie widzę korelacji z raportem czy rankingiem gracza.
+
+* interfejs jest dosyć przyjemny, przejrzysty, nie męczy oczu.
+
+* Błędem z założenia wydaje mi się możliwość dowolnej edycji profilu gracza. Uprawnienia do edycji profilu powinien mieć jeden użytkownik (w założeniu menager/trener/właściciel drużyny)
+  W profilu gracza pole "waga" pzyjmuje wartość ujemną - należy wprowadzić wartości brzegowe
+  W profilu gracza pole "data urodzenia" przyjmuje datę przyszłą oraz datę sprzed wynalezinia piłki nożnej ;) - należy wprowadzić wartości brzegowe
+  
+  
 
