@@ -48,3 +48,15 @@ Jednak nie samą teorią człowiek żyje i potrzebuję nieco praktyki, która sp
       * Nie rozumiem co ma na celu pole "90 minut" - proponuję jak wyżej
   
 
+# **Task 1**
+
+ ## **Subtask 1**
+
+docs.google.com/spreadsheets/d/1cJdgKOohFKX-LAvIPEd7_Vse6Cfx7HyT/edit?rtpof=true#gid=541246506
+
+## **Subtask 2**
+
+docs.google.com/spreadsheets/d/1cJdgKOohFKX-LAvIPEd7_Vse6Cfx7HyT/edit?rtpof=true#gid=541246506
+
+## **Subtask 2**
+
