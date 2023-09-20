@@ -56,7 +56,7 @@ Jednak nie samą teorią człowiek żyje i potrzebuję nieco praktyki, która sp
 
 ## **Subtask 2**
 
-[subtask2](docs.google.com/spreadsheets/d/1cJdgKOohFKX-LAvIPEd7_Vse6Cfx7HyT/edit?rtpof=true#gid=541246506)
+[subtask2](https://docs.google.com/spreadsheets/d/1-a9cfQO4mb6n4rqtnMebCNdCA5_44QsHkxkJyuEzlGY/edit#gid=0)
 
 ## **Subtask 3**
 
