@@ -52,11 +52,15 @@ Jednak nie samą teorią człowiek żyje i potrzebuję nieco praktyki, która sp
 
  ## **Subtask 1**
 
-(docs.google.com/spreadsheets/d/1cJdgKOohFKX-LAvIPEd7_Vse6Cfx7HyT/edit?rtpof=true#gid=541246506)
+[subtask1](docs.google.com/spreadsheets/d/1cJdgKOohFKX-LAvIPEd7_Vse6Cfx7HyT/edit?rtpof=true#gid=541246506)
 
 ## **Subtask 2**
 
-(docs.google.com/spreadsheets/d/1cJdgKOohFKX-LAvIPEd7_Vse6Cfx7HyT/edit?rtpof=true#gid=541246506)
+[subtask2](docs.google.com/spreadsheets/d/1cJdgKOohFKX-LAvIPEd7_Vse6Cfx7HyT/edit?rtpof=true#gid=541246506)
 
-## **Subtask 2**
+## **Subtask 3**
+
+Przypadki testowe są dokumetacją, powtałą podczas procesu testowania. 
+Pozwala ocenić stopień pokrycia kodu testami.
+Umożliwia wykonanie retestów.
 
