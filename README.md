@@ -61,6 +61,8 @@ Jednak nie samą teorią człowiek żyje i potrzebuję nieco praktyki, która sp
 ## **Subtask 3**
 
 Przypadki testowe są dokumetacją, powtałą podczas procesu testowania. 
+
 Pozwala ocenić stopień pokrycia kodu testami.
+
 Umożliwia wykonanie retestów.
 
