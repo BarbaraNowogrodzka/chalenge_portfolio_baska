@@ -52,11 +52,11 @@ Jednak nie samą teorią człowiek żyje i potrzebuję nieco praktyki, która sp
 
  ## **Subtask 1**
 
-[subtask1](https://docs.google.com/spreadsheets/d/1cJdgKOohFKX-LAvIPEd7_Vse6Cfx7HyT/edit#gid=541246506)
+[Sutask 1](https://docs.google.com/spreadsheets/d/1cJdgKOohFKX-LAvIPEd7_Vse6Cfx7HyT/edit#gid=541246506)
 
 ## **Subtask 2**
 
-[subtask2](https://docs.google.com/spreadsheets/d/1-a9cfQO4mb6n4rqtnMebCNdCA5_44QsHkxkJyuEzlGY/edit#gid=0)
+[Subtask 2](https://docs.google.com/spreadsheets/d/1-a9cfQO4mb6n4rqtnMebCNdCA5_44QsHkxkJyuEzlGY/edit#gid=0)
 
 ## **Subtask 3**
 
@@ -65,4 +65,15 @@ Przypadki testowe są dokumetacją, powtałą podczas procesu testowania.
 Pozwala ocenić stopień pokrycia kodu testami.
 
 Umożliwia wykonanie retestów.
+
+# **Task 4**
+
+## **Subtask 1 i 2**
+[Zgłoszenia błędów aplikacji mobilnej] (https://docs.google.com/spreadsheets/d/1St6qdEFl7r6by0NS6X8u0wtX9QR8_QMf80mT9zHiXAk/edit#gid=0)
+
+## **Subtask 3**
+
+The OLX app is an online marketplace that facilitates buying and selling of various products and services. Users can browse listings in different categories, from electronics to real estate, and connect with sellers locally or globally. The app offers tools for creating user profiles, messaging, and managing listings. It's a platform that enables easy, convenient, and secure transactions between individuals looking to sell items they no longer need and those in search of specific goods or services.
+
+
 
