@@ -65,6 +65,7 @@ We write test cases to ensure that software or systems perform as expected and m
 # **Task 4**
 
 ## **Subtask 1 i 2**
+
 [Zgłoszenia błędów aplikacji mobilnej](https://docs.google.com/spreadsheets/d/1St6qdEFl7r6by0NS6X8u0wtX9QR8_QMf80mT9zHiXAk/edit#gid=0)
 
 ## **Subtask 3**
