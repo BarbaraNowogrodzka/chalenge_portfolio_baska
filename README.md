@@ -60,16 +60,12 @@ Jednak nie samą teorią człowiek żyje i potrzebuję nieco praktyki, która sp
 
 ## **Subtask 3**
 
-Przypadki testowe są dokumetacją, powtałą podczas procesu testowania. 
-
-Pozwala ocenić stopień pokrycia kodu testami.
-
-Umożliwia wykonanie retestów.
+We write test cases to ensure that software or systems perform as expected and meet their functional requirements. Test cases provide a systematic and documented approach to verifying that each aspect of the software functions correctly and that potential issues are identified and addressed. They serve as a guide for testers to execute specific scenarios and help maintain the quality and reliability of the software throughout its development and maintenance lifecycle.
 
 # **Task 4**
 
 ## **Subtask 1 i 2**
-[Zgłoszenia błędów aplikacji mobilnej] (https://docs.google.com/spreadsheets/d/1St6qdEFl7r6by0NS6X8u0wtX9QR8_QMf80mT9zHiXAk/edit#gid=0)
+[Zgłoszenia błędów aplikacji mobilnej](https://docs.google.com/spreadsheets/d/1St6qdEFl7r6by0NS6X8u0wtX9QR8_QMf80mT9zHiXAk/edit#gid=0)
 
 ## **Subtask 3**
 
