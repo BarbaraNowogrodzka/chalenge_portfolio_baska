@@ -73,8 +73,8 @@ We write test cases to ensure that software or systems perform as expected and m
 The OLX app is an online marketplace that facilitates buying and selling of various products and services. Users can browse listings in different categories, from electronics to real estate, and connect with sellers locally or globally. The app offers tools for creating user profiles, messaging, and managing listings. It's a platform that enables easy, convenient, and secure transactions between individuals looking to sell items they no longer need and those in search of specific goods or services.
 
 
-# **Task 5****
-## **Subtask 3
+# **Task 5**
+## **Subtask 3**
 
 
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
