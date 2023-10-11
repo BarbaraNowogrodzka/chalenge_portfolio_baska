@@ -73,4 +73,49 @@ We write test cases to ensure that software or systems perform as expected and m
 The OLX app is an online marketplace that facilitates buying and selling of various products and services. Users can browse listings in different categories, from electronics to real estate, and connect with sellers locally or globally. The app offers tools for creating user profiles, messaging, and managing listings. It's a platform that enables easy, convenient, and secure transactions between individuals looking to sell items they no longer need and those in search of specific goods or services.
 
 
+# **Task 5****
+## **Subtask 3
+
+
+1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+
+SELECT * FROM actors ORDER BY surname ASC; 
+
+2. Wyświetl film, który powstał w 2019 roku.
+
+SELECT * FROM movies where year_of_production = '2019';
+
+3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+
+SELECT * FROM movies where year_of_production BETWEEN '1999' and '2019';
+
+4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ 
+
+SELECT title, price FROM movies where price < '7'; 
+
+5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+
+SELECT * FROM actors where actor_id >= '4' and actor_id <= '7'; 
+
+6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
+
+SELECT * FROM actors where actor_id = '2' or actor_id = '4' or actor_id = '6'; 
+
+7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+
+SELECT * FROM actors where actor_id in ('1','3','5');
+
+8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+
+SELECT * FROM actors where name like 'An%';
+
+9. Wyświetl dane klienta, który nie ma podanego adresu email.
+
+SELECT * FROM customers where email IS NULL;
+
+10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+
+SELECT * FROM movies where price > '9' and movie_id BETWEEN '2' and '8';
+
+
 
