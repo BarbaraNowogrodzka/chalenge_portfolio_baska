@@ -74,9 +74,13 @@ Test cases clarify what needs to be done to test a system. It gives us the steps
 
 ## **TASK 3**
 
-### ** Subtask 1 i 2**
+### **Subtask 1 i 2**
 
 [Zgłoszenia błędów](https://docs.google.com/spreadsheets/d/1htyuzVqItWh8yE92ktEhn92GnH8HS9ysbGRo0EyD-o0/edit?usp=sharing)
+
+### **Subtask 3**
+
+[Raport z testów](https://docs.google.com/document/d/1y04uaUBTe3Zd1bChz8j5iDaBwwcZzug_3jT1zoRr1UA/edit?usp=sharing)
 
 
 ## **TASK 4**
