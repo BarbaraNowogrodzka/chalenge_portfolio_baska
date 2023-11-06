@@ -1,10 +1,12 @@
-# **Task 1**
+# **DareIT Challenge**
 
-## **Subtask 1**
+## **TASK 1**
+
+### **Subtask 1**
 
 9
 
-## **Subtask 3**
+### **Subtask 3**
 
 Witam, mam na imię Baśka. Biorę udział w DareIT Challenge żeby zdobyć praktyczne umiejętności z zakresu testowania manualnego. 
 W zeszłym roku przypadkowo trafiłam na materiały dotyczące testowania i przepadłam. Od tej pory ciągle się uczę, odkrywając, że wraz z postępami w nauce rośnie ilość wiedzy, którą muszę i chcę przyswoić.
@@ -12,7 +14,7 @@ Jednak nie samą teorią człowiek żyje i potrzebuję nieco praktyki, która sp
 
 **_Baśka_**
 
-## **Subtask 4**
+### **Subtask 4**
 
 1. Aplikacja dla skautów piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycji zawodników.
   Dzięki aplikaji użytownik powinien móc określić cechy danego piłkarza i jego potencjlną przydatność dla zespołu.
@@ -21,15 +23,21 @@ Jednak nie samą teorią człowiek żyje i potrzebuję nieco praktyki, która sp
   Po wybraniu zawodnika użytkownik widzi podstawowe dane, może wyświetlić mecze w których zawodnik wystąpił, stracone i strzelone gole w danym meczu oraz raport gracza.
   Użytkownik ma możliwość edycji wszystkich powyższych danych.
   Użytkownik ma możliwość dodania zawodnika.
+  Użytkownik ma możliwość zapisywania danych do pliku csv oraz drukowania zestawień. 
   Funkconalności są dosyć mało intuicyjne. "Rozrzucone" w różnych miejscach, mało logiczne. Niektóre się powtarzają.
   Nie do końca udało mi się dojść na czym polega funkcja "rozpocznij mecz" i kolejno dodawane akcje. Nie widzę korelacji z raportem czy rankingiem gracza.
 
-3. Interfejs jest dosyć przyjemny, przejrzysty, nie męczy oczu.
+4. Interfejs jest dosyć oszczędny, mało intuicyjny. Nie męczy oczu. Strona główna niestandardowa pod kątem rozmieszczenia elementów. Logo umieszczone z boku, mało widoczne. Linki pomocnicze umieszczone centralnie. Nie widać też z poziomu strony głównej, znajdujących się po lewej stronie, meczy i raportów. Koncepcja mało logiczna, nietypowa - co utrudnia kożystanie.
 
-4. W sesji testowania eksploracyjnego skupiłam się na przetestowaniu możliwości edycji profilu zawodnika.
+5. Jeśli chodzi o tworzenie i edycję to niedoświadczony użytkownik jest w stanie się połapać, natomiast pojawiają się obszary, które dobrze byłoby dopracować:
+Lupka w wyszukiwarce nie jest aktywna. Wyłącznie enter powoduje zatwierdzenie wyszukiwanej frazy. Dobrze by było, gdyby można było wykorzystać ją do wyszukiwania oraz przedatne byłoby wyszukiwanie dynamiszne tzn. wyniki wyszukiwania były wyświetlane już w trakcie wpisywania tekstu w wyszukiwarkę. Niektóre funkcjonalności "proszą się" o podpowiedź/objaśnienie.
+
+   
+
+6. W sesji testowania eksploracyjnego skupiłam się na przetestowaniu możliwości edycji profilu zawodnika.
    
    
-   Błędem z założenia wydaje mi się możliwość dowolnej edycji profilu gracza. Uprawnienia do edycji powinien mieć jeden użytkownik zarządzający profilem.
+   Błędem z założenia wydaje mi się możliwość dowolnej edycji profilu gracza, co może prowadzić do spekulacji. Uprawnienia do edycji powinien mieć jeden użytkownik zarządzający profilem np. menager zawodnika lub drużyny/trener/PR-owiec.
   
       * W profilu gracza pole "waga" pzyjmuje wartość ujemną - należy wprowadzić wartości brzegowe
   
@@ -48,33 +56,56 @@ Jednak nie samą teorią człowiek żyje i potrzebuję nieco praktyki, która sp
       * Nie rozumiem co ma na celu pole "90 minut" - proponuję jak wyżej
   
 
-# **Task 2**
+## **TASK 2**
 
  ## **Subtask 1**
 
-[Sutask 1](https://docs.google.com/spreadsheets/d/1cJdgKOohFKX-LAvIPEd7_Vse6Cfx7HyT/edit#gid=541246506)
+[Przypadki testowe w oparciu o User Story](https://docs.google.com/spreadsheets/d/1cJdgKOohFKX-LAvIPEd7_Vse6Cfx7HyT/edit?usp=sharing&ouid=113890725788163755679&rtpof=true&sd=true)
 
-## **Subtask 2**
+### **Subtask 2**
 
-[Subtask 2](https://docs.google.com/spreadsheets/d/1-a9cfQO4mb6n4rqtnMebCNdCA5_44QsHkxkJyuEzlGY/edit#gid=0)
+[Przypadki testowe na podstawie doświadczenia](https://docs.google.com/spreadsheets/d/1-a9cfQO4mb6n4rqtnMebCNdCA5_44QsHkxkJyuEzlGY/edit#gid=0)
 
-## **Subtask 3**
+### **Subtask 3**
 
 We write test cases to ensure that software or systems perform as expected and meet their functional requirements. Test cases provide a systematic and documented approach to verifying that each aspect of the software functions correctly and that potential issues are identified and addressed. They serve as a guide for testers to execute specific scenarios and help maintain the quality and reliability of the software throughout its development and maintenance lifecycle.
 
-# **Task 4**
+Test cases clarify what needs to be done to test a system. It gives us the steps which we execute in a system, the input data values which we enter in the system along with the expected results when we execute a particular test case.
 
-## **Subtask 1 i 2**
+## **TASK 3**
+
+### ** Subtask 1 i 2**
+
+[Zgłoszenia błędów](https://docs.google.com/spreadsheets/d/1htyuzVqItWh8yE92ktEhn92GnH8HS9ysbGRo0EyD-o0/edit?usp=sharing)
+
+
+## **TASK 4**
+
+### **Subtask 1 i 2**
 
 [Zgłoszenia błędów aplikacji mobilnej](https://docs.google.com/spreadsheets/d/1St6qdEFl7r6by0NS6X8u0wtX9QR8_QMf80mT9zHiXAk/edit#gid=0)
 
-## **Subtask 3**
+### **Subtask 3**
 
+1. What is the application for? What is the purpose of the application?
 The OLX app is an online marketplace that facilitates buying and selling of various products and services. Users can browse listings in different categories, from electronics to real estate, and connect with sellers locally or globally. The app offers tools for creating user profiles, messaging, and managing listings. It's a platform that enables easy, convenient, and secure transactions between individuals looking to sell items they no longer need and those in search of specific goods or services.
 
+2. Who is the end user of the application?
+The end users of the OLX application are individuals or consumers who use the platform to buy and sell various products and services. OLX is an online marketplace where people can list items they want to sell and browse listings for items they want to buy. Users can be both buyers and sellers, and they use the OLX application to connect with each other and facilitate transactions. The application caters to a wide range of users who are interested in buying or selling used or new items, such as electronics, furniture, vehicles, clothing, and more.
 
-# **Task 5**
-## **Subtask 3**
+3. Is the application user friendly?
+In my opinion, the application is very user-friendly.  Good design, navigation, ease of use, and the quality of the user interface. 
+
+4. How would you improve the application? Do you have any idea for additional functionality?
+The application meets all my requirements. The only improvement that I think is worth considering is adapting the application for blind or visually impaired people and enabling the use of the application in English.
+Even if it is a local application, allowing non-Polish speakers to use it could expand the audience.
+
+5. What differences do you see between testing a web application and a native one?
+The basic difference in testing a native application and a web application is that web applications can run on a platform with any operating system, while a mobile application is dedicated to a specific platform, which makes testing mobile applications more advanced than web applications. The web application can be used by a web browser, while the mobile application must be downloaded to the device and installed. In addition, mobile applications look different from web applications.
+
+
+## **TASK 5**
+### **Subtask 3**
 
 
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
@@ -117,8 +148,8 @@ SELECT * FROM customers where email IS NULL;
 
 SELECT * FROM movies where price > '9' and movie_id BETWEEN '2' and '8';
 
-# **Task 6**
-## **Subtask 1**
+## **TASK 6**
+### **Subtask 1**
 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd
 
 UPDATE customers set surname = 'Miler' where customer_id = 3;
