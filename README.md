@@ -208,4 +208,6 @@ obraz
 INSERT INTO customers (customer_id, name, surname, email, pseudonym) VALUES ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa')
 
 
+## **TASK 7**
+[Portfolio](https://github.com/BarbaraNowogrodzka/Portfolio-Barbara-Nowogrodzka)
 
